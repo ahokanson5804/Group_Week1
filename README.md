@@ -1,11 +1,5 @@
 # Trading_Group
-Group sharing repo exercise
+Group sharing of quantitative trading tools, methods, and stratagies:
 
-Greg's addition <br> 
-I finally made it <br>
-Adding something new <br>
-Happy Sunday <br>
-
-def int = 1(
-    ## enter loop here
-)
+## API's
+List of API's that look helpful to add into your already existing or new codebase: 
