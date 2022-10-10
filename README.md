@@ -1,4 +1,4 @@
-# Group_Week1
+# Trading_Group
 Group sharing repo exercise
 
 Greg's addition <br> 
